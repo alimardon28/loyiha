@@ -125,4 +125,90 @@ img{
     color:#00bc ;
 }
 
+/* MAIN */
 
+.site-main{
+    margin: 0;
+    padding: 0;
+    padding-top: 40px;
+}
+
+.hero{
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/bgimg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+
+}
+.hero-top{
+    padding-top: 30px;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.her-top-heading{
+  color: #fff;
+}
+
+.hero-top-heading-marquee{
+    margin-left: 120px;
+}
+
+.information-hero{
+    margin: 0;
+    padding: 0;
+    padding-top: 50px;
+    margin-bottom: 11px;
+}
+
+.information-hero-heading{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-bottom: 11px;
+}
+
+.information-hero-hr{
+    width: 60px;
+    height: 3px;
+    background-color: #000;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.information-hero-paragraph{
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-weight: 30px;
+    margin-bottom: 11px;
+    text-align: center;
+}
+
+.information-top-img{
+    margin-bottom: 4px;
+}
+
+.information-top{
+    margin: 0;
+    padding: 0;
+
+}
+
+.informaton-top-heading{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-bottom:11px;
+}
+
+.information-top-paragraph{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 11px;
+}
