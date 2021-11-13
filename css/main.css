@@ -97,6 +97,12 @@ img{
 
 }
 
+#active{
+    color: #19dafa !important;
+    border-bottom:transparent;
+}
+
+
 .sitenav-btn{
     display: inline-block;
     padding: 13px 16px;
@@ -278,6 +284,11 @@ img{
     padding-bottom: 50px;
 }
 
+#active{
+    color: #19dafa !important;
+    border: transparent;
+}
+
 .site_hero-item{
     list-style: none;
     margin: 0;
@@ -324,6 +335,11 @@ img{
 
 /* SITE IMG */
 /* SITE MAIN */
+#active{
+    color: #19dafa !important;
+    border: transparent;
+}
+
 .site-main-section{
     margin: 0;
     padding: 0;
